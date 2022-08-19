@@ -1,0 +1,8 @@
+ElectricCar,Tesla Model 3,300,35000,AA2235BH,360,0.0;
+PassengerCar,Audi A6,220,40000.0,AC2821HA,3.0,15.0;
+PassengerCar,Fiat Croma,210,6000.0,BH4717AB,1.9,10.0;
+PassengerCar,Bugatti Veyron,407,1700000,AA7777AA,8.0,27;
+Truck,Volvo FM 11,180,26000.0,AA4354CE,6.2,25.0,18600;
+Truck,Volvo FM 15,200,34500.0,BH3343AA,7.5,27.0,20300;
+ElectricCar,Tesla Model S,350,75000,AB2233BK,400,0.0;
+ElectricCar,Tesla Model 3,300,35000,AA2234BH,350,0.0;
